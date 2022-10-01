@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 - 💻 Learning Python & Django
 - 🤔 Exploring AI and Web Frameworks
 - ⚡ Love Travelling and Playing Squash
+- ⚡ Listening Music and Writing
 
 
 ### Languages & Tools
