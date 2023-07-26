@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <br>
 
 ### A Student, Developer & Explorer
-- 🙋‍♂️ A computer science student at [PUCIT - University of the Punjab], Lahore, Pakistan
-- 💻 Learning Python & Django
+- 🙋‍♂️ A computer science graduate from [PUCIT - University of the Punjab], Lahore, Pakistan
+- 💻 Learning Python/Django & Flutter
 - 🤔 Exploring AI and Web Frameworks
 - ⚡ Love Travelling and Playing Squash
 - ⚡ Listening Music and Writing
@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <br>
 
 <details>
