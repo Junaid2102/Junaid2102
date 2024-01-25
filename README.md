@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 <hr>
 <div align="center">
 <p align="center">Let's connect!</p>
+<a href="mailto:junaidal2102@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+    
 <a href="https://twitter.com/JunaidA24604211">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
