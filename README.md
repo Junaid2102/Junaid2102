@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 
 ### A Student, Developer & Explorer
 - 🙋‍♂️ A computer science graduate from [PUCIT - University of the Punjab], Lahore, Pakistan
-- 💻 Learning Python/Django & Flutter
+- 💻 Odoo Developer
+- 💻 Odoo Python & Django
 - 🤔 Exploring AI and Web Frameworks
 - ⚡ Love Travelling and Playing Squash
 - ⚡ Listening Music and Writing
