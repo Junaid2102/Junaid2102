@@ -5,7 +5,7 @@
 ### Odoo Developer & ERP Architect · Team Lead at an Odoo Gold Partner
 
 <a href="https://junaid2102.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=714B67&center=true&vCenter=true&width=620&lines=Custom+Odoo+Modules+%7C+v16+%E2%80%93+v19;Approval+Workflows+%26+Process+Automation;API+Integrations+%26+Multi-Company+ERP;18%2B+Enterprise+Projects+across+KSA+%26+Spain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=714B67&center=true&vCenter=true&width=620&lines=Custom+Odoo+Modules+%7C+v16+%E2%80%93+v20;Approval+Workflows+%26+Process+Automation;API+Integrations+%26+Multi-Company+ERP;18%2B+Enterprise+Projects+across+KSA+%26+Spain" alt="Typing SVG" />
 </a>
 
 <p>
@@ -27,7 +27,7 @@
 I turn complex business processes into clean, automated Odoo systems. I currently lead a development team at **Telenoc (Helcon IT)**, an **Odoo Gold Partner**, delivering custom ERP solutions for enterprise clients in **Saudi Arabia** and beyond.
 
 - 🏢 **18+ enterprise projects** across hospitality, automotive, finance, retail, HR and rentals
-- 🧩 Odoo **v16, v17, v18 & v19**, both **Community and Enterprise**, on-premise and Odoo.sh
+- 🧩 Odoo **v16, v17, v18, v19 & v20**, both **Community and Enterprise**, on-premise and Odoo.sh
 - 🔄 Specialist in **dynamic multi-level approval workflows**, **QWeb reports** and **third-party integrations**
 - 👥 Leading the full lifecycle: requirements, solution design, delegation, code review and deployment
 - 🎓 BS Computer Science, **PUCIT – University of the Punjab** (2019–2023)
@@ -67,6 +67,7 @@ A selection from 18+ delivered Odoo implementations (client work, so source code
 
 | Project | Odoo | Highlights |
 |---|:---:|---|
+| **Dynamic Approval Workflow & Report Designer** – in-house 🇸🇦 | v20 | Configurable multi-level approvals with a command-center dashboard; canvas-based print template designer deployed to the Print menu |
 | **Lease Accounting** – Sadara Capital 🇸🇦 | v19 | Lease liability tracking, automated financial postings, installment scheduling |
 | **POS Loyalty Platform** – Prive 🇸🇦 | v18 | Third-party payment/loyalty integration, WebSocket notifications, real-time tier discounts, reconciliation |
 | **Hotel Management** – Al Ventura 🇸🇦 | v18 | Bookings, check-in/out, POS-to-guest billing, consolidated invoicing, front-desk dashboards |
@@ -98,8 +99,8 @@ Python/Django REST backends, PostgreSQL tuning, Celery + Redis, Docker on AWS EC
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Junaid2102&show_icons=true&hide_border=true&theme=transparent&title_color=714B67&icon_color=714B67" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid2102&layout=compact&hide_border=true&theme=transparent&title_color=714B67" alt="Top languages"/>
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats"/>
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages"/>
 </div>
 
 ---
